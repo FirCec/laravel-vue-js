@@ -1,1 +1,1 @@
-# js-works
+# laravel-with-vue-js
